@@ -1,45 +1,75 @@
-# 👋 Hi, I'm Chitresh Kaushik (@capchitts)
+# Hi, I'm Chitresh Kaushik 👋
 
-🚀 AI Engineer with 5+ years of experience building production-grade AI systems, Agentic Workflows, RAG applications, and Machine Learning solutions.
+### Senior AI Engineer | Agentic AI | LLM Systems | Production AI Engineering
 
-### 👨‍💻 What I Work On
+I’m an **AI Engineer with 5+ years of experience** designing and building scalable, production-oriented AI systems.
 
-* Multi-Agent Systems using LangGraph and LangChain
-* Retrieval-Augmented Generation (RAG) and Knowledge Systems
-* Text-to-SQL and Enterprise AI Copilots
-* Voice AI Agents and Real-Time AI Applications
-* Machine Learning and Time-Series Forecasting
-* FastAPI Microservices, MLOps, and Cloud Deployments
-* AWS, Azure, Docker, Kubernetes, and CI/CD
+My work focuses on **Agentic AI, Retrieval-Augmented Generation (RAG), LLM-powered applications, and AI platform engineering**, with an emphasis on transforming AI prototypes into reliable, maintainable, and production-ready solutions.
 
-### 🛠️ Current Interests
+I enjoy working at the intersection of **AI architecture, backend engineering, and distributed systems**, solving problems involving intelligent automation, enterprise knowledge retrieval, and scalable AI infrastructure.
 
-* Agentic AI and Multi-Agent Architectures
-* Long-Term Memory Systems (LangMem)
-* AI Security and Guardrails
-* Hybrid Search (Dense + Sparse Retrieval)
-* LLM Evaluation, Monitoring, and Observability
-* Production AI Engineering
+📍 India | 🌐 [LinkedIn](https://www.linkedin.com/in/chitresh-kaushik/) | 📧 [Email](mailto:ltchitts@gmail.com)
 
-### 🤝 Open to Collaborate
+---
 
-I’m always interested in collaborating on:
+## 🚀 Engineering Focus
 
-* Agentic AI and LLM Applications
-* RAG and Knowledge Retrieval Systems
-* Data Engineering and AI Platforms
-* NLP and Computer Vision Projects
-* Open Source AI Engineering Tools
+| Domain | Areas of Focus |
+|---|---|
+| **Agentic AI** | Multi-Agent Systems, LangGraph, LangChain, Tool Calling, Agent Orchestration |
+| **LLM Engineering** | RAG, Advanced Retrieval, Context Engineering, Text-to-SQL, Enterprise AI Copilots |
+| **AI Platforms** | LLM Guardrails, Evaluation, Observability, Model Integration, AI Security |
+| **Backend Engineering** | Python, FastAPI, AsyncIO, REST APIs, Microservices |
+| **ML Engineering** | Machine Learning, NLP, Time-Series Forecasting, Model Deployment |
+| **Infrastructure** | Docker, Kubernetes, AWS, Azure, CI/CD, MLOps |
 
-### 📂 About This Repository
+## 🧠 What I'm Exploring
 
-The projects and code shared here are personal learning initiatives and independent projects. They do not represent the views, work, or intellectual property of my employer.
+I'm particularly interested in the engineering challenges involved in building **reliable, secure, and scalable AI systems**.
 
-### 📫 Connect With Me
+- **Agent Architectures:** Multi-agent orchestration, state management, tool execution, and durable workflows.
+- **Context & Memory Engineering:** Dynamic context retrieval, long-term memory, and intelligent knowledge management.
+- **Advanced Retrieval:** Hybrid search, semantic indexing, reranking, and retrieval optimization.
+- **AI Security:** Prompt injection defense, policy enforcement, guardrails, and secure tool execution.
+- **LLM Evaluation & Observability:** Reliability testing, tracing, monitoring, and quality measurement.
+- **AI System Design:** Scalable inference, asynchronous processing, and production deployment patterns.
 
-* Email: **[ltchitts@gmail.com](mailto:ltchitts@gmail.com)**
-* LinkedIn: **linkedin.com/in/chitresh-kaushik**
-* GitHub: **github.com/capchitts**
+## 🛠️ Technologies & Tools
 
-> Building reliable AI systems that move beyond demos and into production.
+**Languages & Backend**
 
+`Python` · `SQL` · `FastAPI` · `AsyncIO` · `Pydantic` · `REST APIs`
+
+**GenAI & Agent Frameworks**
+
+`LangGraph` · `LangChain` · `LlamaIndex` · `OpenAI API` · `RAG` · `Vector Databases`
+
+**ML & Data**
+
+`PyTorch` · `Scikit-learn` · `Pandas` · `NumPy` · `NLP` · `Time-Series Forecasting`
+
+**Cloud & DevOps**
+
+`AWS` · `Azure` · `Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD`
+
+## 🔬 Areas of Technical Interest
+
+Beyond application development, I’m actively deepening my understanding of:
+
+- Production-grade agentic AI architectures
+- Distributed systems and AI infrastructure
+- LLM inference and performance optimization
+- AI platform security and governance
+- System design for high-scale AI applications
+- Open-source AI engineering frameworks
+
+## 🤝 Collaboration
+
+I'm interested in collaborating with engineers, researchers, and open-source contributors working on **Agentic AI, knowledge systems, AI infrastructure, and production LLM applications**.
+
+I'm especially interested in projects that explore the gap between *AI systems that work in demonstrations* and *AI systems that operate reliably in production*.
+
+## 📫 Connect
+
+- **LinkedIn:** [linkedin.com/in/chitresh-kaushik](https://www.linkedin.com/in/chitresh-kaushik/)
+- **GitHub:** [github.com/capchitts](https://github.com/cap
