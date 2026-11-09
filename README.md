@@ -72,4 +72,11 @@ I'm especially interested in projects that explore the gap between *AI systems t
 ## 📫 Connect
 
 - **LinkedIn:** [linkedin.com/in/chitresh-kaushik](https://www.linkedin.com/in/chitresh-kaushik/)
-- **GitHub:** [github.com/capchitts](https://github.com/cap
+- **GitHub:** [github.com/capchitts](https://github.com/capchitts)
+- **Email:** [ltchitts@gmail.com](mailto:ltchitts@gmail.com)
+
+---
+
+<sub>**Disclaimer:** Repositories shared here represent personal learning, experimentation, and independent engineering work. They do not represent my employer's views, proprietary systems, or intellectual property.</sub>
+
+**Building AI systems that are not just intelligent, but reliable, secure, and production-ready.**
